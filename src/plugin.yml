@@ -1,0 +1,9 @@
+name: 1v1
+ version: 0.5
+ author: Jannify
+ 
+ main: de.Jannify.eVe.eVeMain
+ 
+ commands:
+   ovo:
+     description: Befehl für 1v1.
