@@ -1,9 +1,12 @@
-name: 1v1
- version: 0.5
- author: Jannify
- 
- main: de.Jannify.eVe.eVeMain
- 
- commands:
-   ovo:
-     description: Befehl f�r 1v1.
+name: TPO
+version: 2.0
+author: Jannify
+
+
+main: de.Jannify.ErstesPlugin.TPO
+
+commands:
+  tpo:
+    description: Öffnet das Creativ Menü
+    usage: /tpo oder /tpo get
+    permission: TPO.menu.open
